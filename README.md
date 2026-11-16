@@ -36,7 +36,7 @@ I enjoy turning ideas into functional software solutions and continuously improv
 
 ### 🚀 Featured Project
 
-#### 🏠 HomeBudget — Personal Finance Management Application
+#### 🏠 HomeBudget — Family Budget Management Application
 
 A full-stack web application designed to help users manage household income, expenses, and monthly budgets.
 
